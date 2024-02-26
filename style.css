@@ -1,0 +1,19 @@
+div p {
+  color: aqua;
+}
+
+body {
+}
+
+.odd,
+.even {
+  font-style: italic;
+}
+.odd {
+  color: red;
+  margin: 50px 50px;
+}
+.even {
+  color: blue;
+}
+.even::before
